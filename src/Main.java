@@ -38,21 +38,21 @@ public class Main {
         System.out.println("Задача 3:");
         System.out.println("На каждого ученика рассчитано " +resault+ " листов бумаги");
 
-        int botleMinets = 16/2;
-        botleMinets = botleMinets*20;
+        int botleminets = 16/2;
+        botleminets = botleminets*20;
 
         System.out.println("");
         System.out.println("Задача 4:");
-        System.out.println("За 20 минут машина произвела " +botleMinets+ " штук бутылок");
+        System.out.println("За 20 минут машина произвела " +botleminets+ " штук бутылок");
 
-        botleMinets = botleMinets*3*24;
-        System.out.println("За 1 сутки машина произвела " +botleMinets+ " штук бутылок");
+        botleminets = botleminets*24;
+        System.out.println("За 1 сутки машина произвела " +botleminets+ " штук бутылок");
 
-        botleMinets = botleMinets*3*24*3;
-        System.out.println("За 3 дня машина произвела " +botleMinets+ " штук бутылок");
+        botleminets = botleminets*3;
+        System.out.println("За 3 дня машина произвела " +botleminets+ " штук бутылок");
 
-        botleMinets = botleMinets*3*24*3*10;
-        System.out.println("За 1 месяц машина произвела " +botleMinets+ " штук бутылок");
+        botleminets = botleminets*10;
+        System.out.println("За 1 месяц машина произвела " +botleminets+ " штук бутылок");
 
         int banok = 120;
         int bel = 2;
