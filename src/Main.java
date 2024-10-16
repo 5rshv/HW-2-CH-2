@@ -52,7 +52,7 @@ public class Main {
         System.out.println("За 3 дня машина произвела " +botleminets+ " штук бутылок");
 
         botleminets = botleminets*10;
-        System.out.println("За 1 месяц машина произвела " +botleminets+ " штук бутылок");
+        System.out.println("За 1 месяц машина произвела " +botleminets+ " штук бутылок!");
 
         int banok = 120;
         int bel = 2;
